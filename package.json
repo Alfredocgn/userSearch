@@ -9,6 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@tanstack/react-query": "^5.17.14",
+    "@types/dateformat": "^5.0.2",
+    "dateformat": "^5.0.3",
     "next": "14.0.4",
     "next-themes": "^0.2.1",
     "react": "^18",
